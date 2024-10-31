@@ -1,0 +1,28 @@
+{
+  "name": "json-server-demo",
+  "version": "1.0.0",
+  "description": "demo how to use json-server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "json-server --watch db.json",
+    "generate-data": "node generate-data.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Paul Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "faker": "^5.5.0",
+    "json-server": "^0.16.3",
+    "jsonwebtoken": "^9.0.1",
+    "query-string": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,0 +1,113 @@
+.wrapper-suggest-account {
+    border-top: 1px solid #eee;
+    padding   : 8px;
+
+    .pc-max-lg {
+        display: block;
+    }
+
+
+    .pc-min-lg {
+        display: none;
+    }
+
+    .suggest-account {
+
+
+        .title {
+            color        : rgba(22, 24, 35, 0.75);
+            font-weight  : 600;
+            font-size    : 1.4rem;
+            padding      : 0 8px;
+            margin-bottom: 8px;
+        }
+
+        .suggest-account-body {
+
+            .wrapper-item {
+                display      : flex;
+                align-items  : center;
+                padding      : 8px;
+                border-radius: 4px;
+                cursor       : pointer;
+
+                img {
+                    height       : 32px;
+                    border-radius: 50%;
+                    width        : 32px;
+                    margin-right : 8px;
+                    object-fit   : cover;
+                }
+
+                p {
+                    padding    : 0;
+                    margin     : 0;
+                    line-height: 1.2;
+
+                    svg {
+                        margin-left: 4px;
+                        color      : #20D5EC;
+                    }
+
+                    &:first-child {
+                        font-size: 1.3rem;
+
+                        strong {
+                            color: #161823;
+                        }
+                    }
+
+                    &:last-child {
+                        font-size: 1.2rem;
+                        color    : #161823bf;
+                    }
+                }
+
+                &:hover {
+                    background-color: rgba(0, 0, 0, 0.03);
+                }
+            }
+        }
+
+        .see-more {
+            color      : rgb(254, 44, 85);
+            font-weight: 700;
+            font-size  : 1.2rem;
+            padding    : 0 8px;
+            margin-top : 8px;
+            cursor     : pointer;
+        }
+    }
+
+
+    @media (max-width: 992px) {
+        & {
+            text-align: center;
+
+            .title {
+                display: none;
+            }
+
+            .see-more {
+                display: none;
+            }
+
+            img {
+                flex-shrink: 0;
+            }
+
+            .jsx-ds-er-ser-account-item {
+                display: none;
+            }
+
+            .pc-max-lg {
+                display: none;
+            }
+
+
+            .pc-min-lg {
+                display: block;
+            }
+        }
+    }
+}

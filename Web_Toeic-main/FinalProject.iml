@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/annotations-api.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/catalina.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/catalina-ant.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/catalina-ha.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/catalina-ssi.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/catalina-storeconfig.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/catalina-tribes.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/commons-digester3-3.2-with-deps.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/ecj-4.13.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/el-api.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/jasper.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/jasper-el.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/jaspic-api.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/jsp-api.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/servlet-api.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-api.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-coyote.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-dbcp.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-cs.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-de.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-es.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-fr.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-ja.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-ko.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-pt-BR.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-ru.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-i18n-zh-CN.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-jdbc.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-jni.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-util.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-util-scan.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/tomcat-websocket.jar" />
+    <libelement value="file://C:/apache-tomcat-9.0.33/lib/websocket-api.jar" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+</module>

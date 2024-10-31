@@ -1,0 +1,97 @@
+.video-container-details {
+    width          : 100%;
+    height         : 100%;
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+    align-items    : center;
+    padding        : 0 60px;
+
+
+    .seek {
+        opacity: 0;
+    }
+
+    &:hover {
+        .seek {
+            opacity   : 1;
+            transition: all linear linear .4s;
+        }
+    }
+
+    video {
+        width     : 100%;
+        max-height: 100%;
+        cursor    : pointer;
+    }
+
+    .btn-toggle-video-play {
+        position : absolute;
+        top      : 50%;
+        left     : 48%;
+        color    : #fff;
+        transform: translateX(-50%);
+        transform: translateY(-50%);
+        font-size: 32px;
+    }
+
+    .video-container-details-seek {
+        display        : flex;
+        position       : absolute;
+        bottom         : 30px;
+        color          : #fff;
+        align-items    : center;
+        left           : 0;
+        right          : 0;
+        justify-content: center;
+
+        input {
+            margin-right      : 10px;
+            width             : 30%;
+            height            : 3px;
+            background-color  : #ccc;
+            border            : 1px solid #ddd;
+            -webkit-appearance: none;
+
+
+            &::-webkit-slider-thumb {
+                -webkit-appearance   : none;
+                background-color     : #fff;
+                width                : 14px;
+                height               : 14px;
+                border-radius        : 50%;
+                border               : 0.2px solid#ccc;
+                // position          : absolute;
+                right                : -1px;
+                bottom               : -3.7px;
+            }
+
+            &::-moz-range-track {
+                background-color: #fff;
+            }
+
+            &::-ms-fill-lower {
+                background-color: #fff;
+            }
+
+            &::-ms-fill-upper {
+                background-color: #fff;
+            }
+        }
+
+        span {
+
+            padding    : 0;
+            margin     : 0;
+            font-weight: 600;
+
+            &:nth-child(1) {
+                font-size: 12px;
+            }
+
+            &:nth-child(3) {
+                font-size: 12px;
+            }
+        }
+    }
+}

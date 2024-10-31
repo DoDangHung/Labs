@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" href="./logo.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#000000" />
+        <meta
+            data-rh="true"
+            name="keywords"
+            content="TikTok, TikTok, musically, video di động, video ngắn,tik tok, tick tock, tic tok, tic toc, tictok, тик ток, ticktock"
+        />
+        <meta
+            name="description"
+            content="TikTok - nơi khởi đầu các xu hướng. Trên thiết bị hoặc trên web, người xem có thể xem và khám phá hàng triệu video ngắn dành riêng cho mình. Hãy tải ứng dụng về để bắt đầu."
+        />
+        <link rel="apple-touch-icon" href="./logo.png" />
+        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+        <link rel="shortcut icon" href="./logo.png" />
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K06BQ2VF56"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'G-K06BQ2VF56');
+        </script>
+        <title>TikTok - Make Your Day</title>
+    </head>
+    <body>
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="root"></div>
+        <div id="fb-root"></div>
+        <!-- Your Plugin chat code -->
+        <div id="fb-customer-chat" class="fb-customerchat"></div>
+
+        <script>
+            var chatbox = document.getElementById('fb-customer-chat');
+            chatbox.setAttribute('page_id', '103117089169248');
+            chatbox.setAttribute('attribution', 'biz_inbox');
+        </script>
+        <!-- Your SDK code -->
+        <script>
+            window.fbAsyncInit = function () {
+                FB.init({
+                    xfbml: true,
+                    version: 'v14.0',
+                });
+            };
+            (function (d, s, id) {
+                var js,
+                    fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            })(document, 'script', 'facebook-jssdk');
+        </script>
+    </body>
+</html>

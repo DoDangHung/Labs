@@ -1,0 +1,143 @@
+.header-video-container {
+    position: relative;
+    width   : 100%;
+
+    .image-item-home {
+        width          : 56px;
+        height         : 56px;
+        object-position: center;
+        object-fit     : cover;
+        border-radius  : 50%;
+        flex-shrink    : 0;
+        cursor         : pointer;
+    }
+
+    .logo {
+        display     : inline-block;
+        margin-right: 10px;
+
+
+    }
+
+    .center {
+        display: inline-block;
+
+        .name-nick {
+            display      : flex;
+            align-items  : center;
+            gap          : 2px;
+            margin-bottom: 5px;
+            align-items  : center;
+            padding-right: 10px;
+            flex-wrap    : wrap;
+
+
+            span {
+                display: flex;
+
+                h2 {
+                    margin      : 0;
+                    padding     : 0;
+                    font-size   : 14px;
+                    display     : inline-block;
+                    margin-right: 4px;
+                    font-family : "IBM Plex Sans", SofiaPro, Arial, Tahoma, PingFangSC, sans-serif;
+                    font-weight : 700;
+                    display     : inline-block;
+                    color       : rgb(22, 24, 35);
+                    line-height : 18px;
+
+
+                    &:hover {
+                        text-decoration: underline !important;
+                        cursor         : pointer;
+                    }
+                }
+
+                svg {
+                    margin-left: 4px;
+                    color      : #20D5EC;
+                }
+
+                &:last-child {
+                    font-size             : 12px;
+                    color                 : rgba(22, 24, 35, 1);
+                    direction             : ltr;
+                    -webkit-font-smoothing: antialiased;
+                    display               : -webkit-box;
+                    -webkit-box-orient    : vertical;
+                    -webkit-line-clamp    : 2;
+                    overflow              : hidden;
+                }
+            }
+        }
+
+        .description {
+            margin-top        : 5px;
+            display           : -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 4;
+            overflow          : hidden;
+            padding-right     : 10px;
+
+            span {
+                &:first-child {
+                    font-size             : 12px;
+                    margin-right          : 8px;
+                    display               : inline-block;
+                    color                 : rgba(22, 24, 35, 1);
+                    direction             : ltr;
+                    -webkit-font-smoothing: antialiased;
+
+                }
+
+                a {
+                    margin     : 0 2px;
+                    font-weight: 600;
+
+                    &:hover {
+                        text-decoration: underline !important;
+                    }
+                }
+            }
+        }
+
+        .music {
+            span {
+                display    : flex;
+                align-items: center;
+                font-size  : 14px;
+                color      : rgb(22, 24, 35);
+                font-weight: 600;
+
+                svg {
+                    margin-right: 6px;
+                    font-size   : 14px;
+                }
+            }
+        }
+    }
+
+
+    .button-jsx-header-video {
+
+        button {
+            background-color: rgba(255, 255, 255, 1);
+            border-width    : 1px;
+            border-style    : solid;
+            border-radius   : 4px;
+            color           : rgba(254, 44, 85, 1);
+            font-weight     : 700;
+            font-size       : 16px;
+            max-width       : 88px;
+            padding         : 0;
+            width           : 88px !important;
+            font-family     : ProximaNova, PingFangSC, sans-serif;
+
+
+            &:hover {
+                background-color: rgba(254, 44, 85, 0.06);
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-security-crypto-5.8.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Java_servlet/spring-security-crypto-5.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

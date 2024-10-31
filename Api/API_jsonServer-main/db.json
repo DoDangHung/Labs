@@ -1,0 +1,687 @@
+{
+  "user": [
+    {},
+    {},
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "protectedResources": {
+    "products": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Pork Salted Bellies",
+      "price": 442,
+      "quantity": 16,
+      "thumbnail": "http://dummyimage.com/213x100.png/dddddd/000000",
+      "status": true,
+      "createdAt": 1610632995000,
+      "modifiedAt": 1615620960000
+    },
+    {
+      "id": 2,
+      "name": "Grapes - Black",
+      "price": 893,
+      "quantity": 22,
+      "thumbnail": "http://dummyimage.com/151x100.png/ff4444/ffffff",
+      "status": false,
+      "createdAt": 1615796160000,
+      "modifiedAt": 1615796160000
+    },
+    {
+      "id": 3,
+      "name": "Nantucket - 518ml",
+      "price": 693,
+      "quantity": 41,
+      "thumbnail": "http://dummyimage.com/125x100.png/dddddd/000000",
+      "status": false,
+      "createdAt": 1614190320000,
+      "modifiedAt": 1614190320000
+    },
+    {
+      "id": 4,
+      "name": "Onions - White",
+      "price": 472,
+      "quantity": 67,
+      "thumbnail": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+      "status": false,
+      "createdAt": 1609751340000,
+      "modifiedAt": 1617525900000
+    },
+    {
+      "id": 5,
+      "name": "Lamb - Whole, Fresh",
+      "price": 157,
+      "quantity": 83,
+      "thumbnail": "http://dummyimage.com/160x100.png/dddddd/000000",
+      "status": true,
+      "createdAt": 1620154080000,
+      "modifiedAt": 1620154080000
+    },
+    {
+      "id": 6,
+      "name": "Carrots - Purple, Organic",
+      "price": 816,
+      "quantity": 37,
+      "thumbnail": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
+      "status": false,
+      "createdAt": 1619270940000,
+      "modifiedAt": 1619443380000
+    },
+    {
+      "id": 7,
+      "name": "Bag - Regular Kraft 20 Lb",
+      "price": 157,
+      "quantity": 60,
+      "thumbnail": "http://dummyimage.com/156x100.png/cc0000/ffffff",
+      "status": false,
+      "createdAt": 1614098400000,
+      "modifiedAt": "2021-04-16"
+    },
+    {
+      "id": 8,
+      "name": "Flour - Bran, Red",
+      "price": 970,
+      "quantity": 40,
+      "thumbnail": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
+      "status": false,
+      "createdAt": 1617954000000,
+      "modifiedAt": 1619964420000
+    },
+    {
+      "id": 9,
+      "name": "Bread - Bistro Sour",
+      "price": 112,
+      "quantity": 77,
+      "thumbnail": "http://dummyimage.com/147x100.png/dddddd/000000",
+      "status": false,
+      "createdAt": 1612357500000,
+      "modifiedAt": 1614956760000
+    },
+    {
+      "id": 10,
+      "name": "Soup - Campbells Bean Medley",
+      "price": 353,
+      "quantity": 40,
+      "thumbnail": "http://dummyimage.com/203x100.png/ff4444/ffffff",
+      "status": false,
+      "createdAt": 1615146960000,
+      "modifiedAt": 1615146960000
+    },
+    {
+      "createdAt": 1686295971489,
+      "updatedAt": 1686295971489,
+      "id": 11
+    },
+    {
+      "createdAt": 1686296288847,
+      "updatedAt": 1686296288847,
+      "id": 12
+    },
+    {
+      "createdAt": 1686296300629,
+      "updatedAt": 1686296300629,
+      "id": 13
+    },
+    {
+      "createdAt": 1686296557067,
+      "updatedAt": 1686296557067,
+      "id": 14
+    },
+    {
+      "createdAt": 1686297089558,
+      "updatedAt": 1686297089558,
+      "id": 15
+    }
+  ],
+  "phimle": [
+    {
+      "_id": "1",
+      "name": "Người Hobbit 3: Đại chiến 5 cánh quân",
+      "origin_name": "The Hobbit 3: The Battle of the Five Armies",
+      "content": "<p>Sau khi thành công tiến vào lãnh địa của con rồng Smaug, anh chàng Hobbit gan dạ Bilbo cùng những người đồng đội Dwarf của mình sẽ phải đối mặt với những nguy hiểm gì? Những đội quân Orc đang rình rập, liệu Thor Oakenshield có thành công giành lại vương quốc của mình hay không, và số phận của vùng Trung Địa sẽ xoay chuyển như thế nào khi thế lực bóng tối từ Modor dần dần hiện thân.</p>",
+      "link_embed": "https://1080.hdphimonline.com/share/df12ecd077efc8c23881028604dbb8cc",
+      "link_m3u8": "https://1080.hdphimonline.com/20220311/1523_277ec72d/index.m3u8",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/nguoi-hobbit-3-dai-chien-5-canh-quan-thumb.jpg",
+      "trailer_url": "http://www.youtube.com/watch?v=xYWN_Zo7_GI",
+      "time": "144 phút",
+      "episode_current": "Hoàn tất",
+      "episode_total": "1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "nguoi-hobbit-3-dai-chien-5-canh-quan",
+      "year": 2014,
+      "view": 164,
+      "actor": [
+        "Benedict Cumberbatch",
+        "  Luke Evans",
+        "  Evangeline Lilly",
+        "  Richard Armitage",
+        "  Lee Pace",
+        "  Manu Bennett",
+        "  Cate Blanchett",
+        "  Orlando Bloom",
+        "  Martin Freeman",
+        "  Ian Mckellen",
+        "  Christopher Lee",
+        "  Hugo Weaving",
+        "  Aidan Turner",
+        "  James Nesbitt",
+        "  Graham Mctavish"
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Chúa Tể Của Những Chiếc Nhẫn 1: Hiệp hội nhẫn thần",
+      "origin_name": "The Lord of the Rings 1: The Fellowship of the Ring",
+      "content": "<p>Chiếc nhẫn chúa mang sức mạnh bá chủ vô tình được số phận đưa vào tay chàng hobbit trẻ tuổi Frodo. Khi thày phù thủy Gandalf phát hiện ra chiếc nhẫn này đã từng thuộc về bạo chúa Sauron, Frodo phải nhận nhiệm vụ mang nhẫn tới khe núi Hủy diệt để tiêu hủy nó.Không đơn độc trong hành trình gian khó, Frodo còn tiếp nhận những người đồng hành thuộc các tộc khác nhau: Legolas tộc Elf; Gimli tộc Dwarf; Aragon, Boromir và ba người bạn Hobbit trung thành...Phim là phần đầu trong bộ ba kinh điển \"Chúa tể những chiếc nhẫn\", chuyển thể từ thiên truyện của nhà văn Tolkien.</p>",
+      "link_embed": "https://1080.hdphimonline.com/share/fa1e9c965314ccd7810fb5ea838303e5",
+      "link_m3u8": "https://1080.hdphimonline.com/20220311/1495_da17bad1/index.m3u8",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/chua-te-cua-nhung-chiec-nhan-1-hiep-hoi-nhan-than-thumb.jpg",
+      "trailer_url": "http://www.youtube.com/watch?v=V75dMMIW2B4",
+      "time": "144 phút",
+      "episode_current": "Hoàn tất",
+      "episode_total": "1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "Chúa Tể Của Những Chiếc Nhẫn 1: Hiệp hội nhẫn thần",
+      "year": 2014,
+      "view": 164,
+      "actor": [
+        "Christopher Lee",
+        "  Elijah Wood",
+        "  Billy Boyd",
+        "  Sean Astin",
+        "  Ian Holm",
+        "  Alan Howard",
+        "  Orlando Bloom",
+        "  Mark Ferguson",
+        "  Sala Baker",
+        "  Marton Csokas",
+        "  Cate Blanchett",
+        "  Sean Bean",
+        "  Michael Elsworth",
+        "  Megan Edwards",
+        "  Noel Appleby"
+      ]
+    },
+    {
+      "_id": "3",
+      "name": "Thanh Sói - Cúc dại trong đêm",
+      "origin_name": "The Hobbit 3: The Battle of the Five Armies",
+      "content": "<p>Sau khi thành công tiến vào lãnh địa của con rồng Smaug, anh chàng Hobbit gan dạ Bilbo cùng những người đồng đội Dwarf của mình sẽ phải đối mặt với những nguy hiểm gì? Những đội quân Orc đang rình rập, liệu Thor Oakenshield có thành công giành lại vương quốc của mình hay không, và số phận của vùng Trung Địa sẽ xoay chuyển như thế nào khi thế lực bóng tối từ Modor dần dần hiện thân.</p>",
+      "link_embed": "https://1080.hdphimonline.com/share/df12ecd077efc8c23881028604dbb8cc",
+      "link_m3u8": "https://1080.hdphimonline.com/20220311/1523_277ec72d/index.m3u8",
+      "director": "Peter Jackson",
+      "country": "VietNam",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/thanh-soi-cuc-dai-trong-dem-thumb.jpg",
+      "trailer_url": "http://www.youtube.com/watch?v=xYWN_Zo7_GI",
+      "time": "144 phút",
+      "episode_current": "Hoàn tất",
+      "episode_total": "1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "thanh-soi-cuc-dai-trong-dem",
+      "year": 2023,
+      "view": 164,
+      "actor": [
+        "Đồng Ánh Quỳnh",
+        "Tóc Tiên",
+        "Thuận Nguyễn",
+        "Ngô Thanh Vân",
+        "Rima Thanh Vy",
+        "Song Luân",
+        "Gi A Nguyễn",
+        "Phan Thanh Nhiên"
+      ]
+    },
+    {
+      "_id": "4",
+      "name": "Johnny",
+      "origin_name": "Johnny",
+      "content": "<p>Patryk đột nhập vào một ngôi nhà ở một thị trấn nhỏ. Anh ta bị kết án phục vụ cộng đồng tại nhà tế bần ở Puck, nơi anh ta gặp người cha Jan Kaczkowski, một người khá khác thường. Vị linh mục lôi kéo những cậu bé từ trường dạy nghề, những người có vẻ là những kẻ nổi loạn cứng rắn, giúp đỡ những người mắc bệnh nan y. Trong công việc của mình, anh ấy tập trung vào sự thân mật, tình cảm và cuộc đấu tranh để thiết lập mối quan hệ với người khác. Ông dạy sự đồng cảm. Và anh ấy làm điều đó với một khiếu hài hước tuyệt vời, điều này khiến anh ấy rất nổi tiếng. Ngay sau đó, chính cha Jan trở thành bệnh nhân trong nhà tế bần. Patryk được đặt vào một vị trí sẽ thay đổi toàn bộ cuộc đời anh. Dựa trên một câu chuyện có thật.</p>",
+      "link_embed": "https://hd.1080phim.com/share/a5593d9c8b76cb79cf9da320681c6c25",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/johnny-thumb.jpg",
+      "trailer_url": "",
+      "time": "120 phút",
+      "episode_current": "Hoàn tất",
+      "episode_total": "1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "johnny",
+      "year": 2014,
+      "view": 164,
+      "actor": [
+        "Dawid Ogrodnik",
+        "Piotr Trojan",
+        "Beata Zygarlicka",
+        "Grażyna Bułka",
+        "Maria Pakulnis",
+        "Joachim Lamża",
+        "Marta Stalmierska",
+        "Jakub Nosiadek",
+        "Anna Dymna",
+        "Witold Dębicki"
+      ]
+    },
+    {
+      "_id": "5",
+      "name": "Người Nhện",
+      "origin_name": "Spider-Man",
+      "content": "<p>Sau khi bị nhện biến đổi gen cắn, cậu thiến niên Peter Parker nhút nhát sử dụng siêu năng lực mới để chống lại bất công và chiến đấu với một siêu ác nhân muốn báo thù.</p>",
+      "link_embed": "https://aa.nguonphimmoi.com/share/816b112c6105b3ebd537828a39af4818",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/nguoi-nhen-thumb.jpg",
+      "trailer_url": "",
+      "time": "2g 1ph",
+      "episode_current": "Hoàn tất",
+      "episode_total": "1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "nguoi-nhen",
+      "year": 2002,
+      "view": 164,
+      "actor": [
+        "Tobey Maguire",
+        "Willem Dafoe",
+        "Kirsten Dunst"
+      ]
+    },
+    {
+      "_id": "6",
+      "name": "Người Hobbit: Đại chiến với rồng lửa",
+      "origin_name": "The Hobbit: The Desolation of Smaug",
+      "content": "<p>Trong phần hai của trường ca Người Hobbit, Thorin và nhóm người Lùn chạy trốn khỏi bọn Orc khiến Bilbo phải đương đầu với con rồng Smaug.</p>",
+      "link_embed": "https://1080.hdphimonline.com/share/efaee7456f7f0595875626c8b9588f31",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/nguoi-hobbit-dai-chien-voi-rong-lua-thumb.jpg",
+      "trailer_url": "",
+      "time": "2g 41ph",
+      "episode_current": "Hoàn tất",
+      "episode_total": "1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "nguoi-hobbit-dai-chien-voi-rong-lua",
+      "year": 2013,
+      "view": 105,
+      "actor": [
+        "Ian McKellen",
+        "Martin Freeman",
+        "Richard Armitage"
+      ]
+    },
+    {
+      "_id": "7",
+      "name": "Bóng ma Anh Quốc (Phần 1)",
+      "origin_name": "Peaky Blinders (Season 1)",
+      "content": "<p>Một băng đảng khét tiếng xuất hiện ở Birmingham, Anh Quốc năm 1919. Cầm đầu băng là Tommy Shelby, tên trùm tội phạm khét tiếng muốn nổi lên bằng mọi giá.</p>",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/bong-ma-anh-quoc-phan-1-thumb.jpg",
+      "trailer_url": "",
+      "time": "57phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "episode_total": "6 Tập",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "bong-ma-anh-quoc-phan-1",
+      "year": 2013,
+      "view": 869,
+      "actor": [
+        "Cillian Murphy",
+        " Sam Neill",
+        " Helen McCrory",
+        " Paul Anderson",
+        " Iddo Goldberg",
+        " Annabelle Wallis",
+        " Sophie Rundle",
+        " Tom Hardy",
+        " Joe Cole",
+        " Ned Dennehy",
+        " Andy Nyman",
+        " Charlie Creed-Miles",
+        " Charlotte Riley",
+        " David Dawson",
+        " Jeffrey Postlethwaite",
+        " Matthew Postlethwaite",
+        " Ian Peck",
+        " Tony Pitts",
+        " Aidan Gillen",
+        " Adrien Brody",
+        " Charlie Murphy",
+        " Aimee-Ffion Edwards",
+        " Anya Taylor-Joy",
+        " Sam Claflin"
+      ],
+      "episodes": [
+        {
+          "name": "1",
+          "slug": "1",
+          "filename": "Bóng ma Anh Quốc_S01E01_Tập 1",
+          "link_embed": "https://hd.1080phim.com/share/680390c55bbd9ce416d1d69a9ab4760d",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5963_63669946/index.m3u8"
+        },
+        {
+          "name": "2",
+          "slug": "2",
+          "filename": "Bóng ma Anh Quốc_S01E02_Tập 2",
+          "link_embed": "https://hd.1080phim.com/share/c67ba7c4c5c0cd4cc3e3a7146fe5c015",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5964_703a33a1/index.m3u8"
+        },
+        {
+          "name": "3",
+          "slug": "3",
+          "filename": "Bóng ma Anh Quốc_S01E03_Tập 3",
+          "link_embed": "https://hd.1080phim.com/share/94cb02feb750f20bad8a85dfe7e18d11",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5965_5b365cd7/index.m3u8"
+        },
+        {
+          "name": "4",
+          "slug": "4",
+          "filename": "Bóng ma Anh Quốc_S01E04_Tập 4",
+          "link_embed": "https://hd.1080phim.com/share/95c8f422f9c3308d391cbcefae21d5ad",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5966_b9f08ee2/index.m3u8"
+        },
+        {
+          "name": "5",
+          "slug": "5",
+          "filename": "Bóng ma Anh Quốc_S01E05_Tập 5",
+          "link_embed": "https://hd.1080phim.com/share/8682cc30db9c025ecd3fee433f8ab54c",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5967_ce9e6f54/index.m3u8"
+        },
+        {
+          "name": "6",
+          "slug": "6",
+          "filename": "Bóng ma Anh Quốc_S01E06_Tập 6",
+          "link_embed": "https://hd.1080phim.com/share/8c97dbeee3b0d40ced7f514b99a93d93",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5968_ea7c4267/index.m3u8"
+        }
+      ]
+    },
+    {
+      "_id": "8",
+      "name": "Bóng ma Anh Quốc (Phần 2)",
+      "origin_name": "Peaky Blinders (Season 2)",
+      "content": "<p>Một băng đảng khét tiếng xuất hiện ở Birmingham, Anh Quốc năm 1919. Cầm đầu băng là Tommy Shelby, tên trùm tội phạm khét tiếng muốn nổi lên bằng mọi giá.</p>",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/bong-ma-anh-quoc-phan-2-thumb.jpg",
+      "trailer_url": "",
+      "time": "57phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "episode_total": "6 Tập",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "bong-ma-anh-quoc-phan-2",
+      "year": 2014,
+      "view": 869,
+      "actor": [
+        "Cillian Murphy",
+        " Sam Neill",
+        " Helen McCrory",
+        " Paul Anderson",
+        " Iddo Goldberg",
+        " Annabelle Wallis",
+        " Sophie Rundle",
+        " Tom Hardy",
+        " Joe Cole",
+        " Ned Dennehy",
+        " Andy Nyman",
+        " Charlie Creed-Miles",
+        " Charlotte Riley",
+        " David Dawson",
+        " Jeffrey Postlethwaite",
+        " Matthew Postlethwaite",
+        " Ian Peck",
+        " Tony Pitts",
+        " Aidan Gillen",
+        " Adrien Brody",
+        " Charlie Murphy",
+        " Aimee-Ffion Edwards",
+        " Anya Taylor-Joy",
+        " Sam Claflin"
+      ],
+      "episodes": [
+        {
+          "name": "1",
+          "slug": "1",
+          "filename": "Bóng ma Anh Quốc_S02E01_Tập 1",
+          "link_embed": "https://hd.1080phim.com/share/631e9c01c190fc1515b9fe3865abbb15",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5969_4f7e2e31/index.m3u8"
+        },
+        {
+          "name": "2",
+          "slug": "2",
+          "filename": "Bóng ma Anh Quốc_S02E02_Tập 2",
+          "link_embed": "https://hd.1080phim.com/share/857c41bc36ba2d1be4e16d321e3f15b7",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5970_89e7c592/index.m3u8"
+        },
+        {
+          "name": "3",
+          "slug": "3",
+          "filename": "Bóng ma Anh Quốc_S02E03_Tập 3",
+          "link_embed": "https://hd.1080phim.com/share/73983c01982794632e0270cd0006d407",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5971_747d15d4/index.m3u8"
+        },
+        {
+          "name": "4",
+          "slug": "4",
+          "filename": "Bóng ma Anh Quốc_S02E04_Tập 4",
+          "link_embed": "https://hd.1080phim.com/share/d8a3a3c3234392b0add43c5f9c05a246",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5972_98d1d84f/index.m3u8"
+        },
+        {
+          "name": "5",
+          "slug": "5",
+          "filename": "Bóng ma Anh Quốc_S02E05_Tập 5",
+          "link_embed": "https://hd.1080phim.com/share/6de59d960d3bb8a6346c058930f3cd28",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5973_53bb0c42/index.m3u8"
+        },
+        {
+          "name": "6",
+          "slug": "6",
+          "filename": "Bóng ma Anh Quốc_S02E06_Tập 6",
+          "link_embed": "https://hd.1080phim.com/share/7e1cacfb27da22fb243ff2debf4443a0",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5974_4ee10976/index.m3u8"
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "name": "Bóng ma Anh Quốc (Phần 3)",
+      "origin_name": "Peaky Blinders (Season 3)",
+      "content": "<p>Hiện tại là năm 1924, hai năm sau vụ trường đua ngựa Epsom Derby. Tommy công khai tổ chức đua ngựa và bán xe hơi trong khi bí mật làm việc cho Winston Churchill.</p>",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/bong-ma-anh-quoc-phan-3-thumb.jpg",
+      "trailer_url": "",
+      "time": "57phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "episode_total": "6 Tập",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "bong-ma-anh-quoc-phan-2",
+      "year": 2014,
+      "view": 869,
+      "actor": [
+        "Cillian Murphy",
+        " Sam Neill",
+        " Helen McCrory",
+        " Paul Anderson",
+        " Iddo Goldberg",
+        " Annabelle Wallis",
+        " Sophie Rundle",
+        " Tom Hardy",
+        " Joe Cole",
+        " Ned Dennehy",
+        " Andy Nyman",
+        " Charlie Creed-Miles",
+        " Charlotte Riley",
+        " David Dawson",
+        " Jeffrey Postlethwaite",
+        " Matthew Postlethwaite",
+        " Ian Peck",
+        " Tony Pitts",
+        " Aidan Gillen",
+        " Adrien Brody",
+        " Charlie Murphy",
+        " Aimee-Ffion Edwards",
+        " Anya Taylor-Joy",
+        " Sam Claflin"
+      ],
+      "episodes": [
+        {
+          "name": "1",
+          "slug": "1",
+          "filename": "Bóng ma Anh Quốc_S03E01_Tập 1",
+          "link_embed": "https://hd.1080phim.com/share/32cfdce9631d8c7906e8e9d6e68b514b",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5975_3d812af7/index.m3u8"
+        },
+        {
+          "name": "2",
+          "slug": "2",
+          "filename": "Bóng ma Anh Quốc_S03E02_Tập 2",
+          "link_embed": "https://hd.1080phim.com/share/e10534dd65cf727692c0f9c44ba613f8",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5976_d9836cb5/index.m3u8"
+        },
+        {
+          "name": "3",
+          "slug": "3",
+          "filename": "Bóng ma Anh Quốc_S03E03_Tập 3",
+          "link_embed": "https://hd.1080phim.com/share/7eb532aef980c36170c0b4426f082b87",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5977_5b04fab3/index.m3u8"
+        },
+        {
+          "name": "4",
+          "slug": "4",
+          "filename": "Bóng ma Anh Quốc_S03E04_Tập 4",
+          "link_embed": "https://hd.1080phim.com/share/e5ae7b1f180083e8a49e55e4d488bbec",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5978_ae073839/index.m3u8"
+        },
+        {
+          "name": "5",
+          "slug": "5",
+          "filename": "Bóng ma Anh Quốc_S03E05_Tập 5",
+          "link_embed": "https://hd.1080phim.com/share/6d7d394c9d0c886e9247542e06ebb705",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5979_dc1aacad/index.m3u8"
+        },
+        {
+          "name": "6",
+          "slug": "6",
+          "filename": "Bóng ma Anh Quốc_S03E06_Tập 6",
+          "link_embed": "https://hd.1080phim.com/share/63dfdeb1ff9ff09ecc3f05d2d7221ffa",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5980_b57798d1/index.m3u8"
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "name": "Bóng ma Anh Quốc (Phần 4)",
+      "origin_name": "Peaky Blinders (Season 4)",
+      "content": "<p>Một năm sau khi rạn nứt chia rẽ nhà Shelby, việc trở thành mục tiêu của kẻ thù máu mafia buộc cả gia đình hợp lực và tìm kiếm sự giúp đỡ từ một đồng minh ám muội mới.</p>",
+      "director": "Peter Jackson",
+      "country": "Âu Mỹ",
+      "thumb_url": "https://img.hiephanhthienha.com/uploads/movies/bong-ma-anh-quoc-phan-3-thumb.jpg",
+      "trailer_url": "",
+      "time": "57phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "episode_total": "6 Tập",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "bong-ma-anh-quoc-phan-2",
+      "year": 2017,
+      "view": 433,
+      "actor": [
+        "Cillian Murphy",
+        " Sam Neill",
+        " Helen McCrory",
+        " Paul Anderson",
+        " Iddo Goldberg",
+        " Annabelle Wallis",
+        " Sophie Rundle",
+        " Tom Hardy",
+        " Joe Cole",
+        " Ned Dennehy",
+        " Andy Nyman",
+        " Charlie Creed-Miles",
+        " Charlotte Riley",
+        " David Dawson",
+        " Jeffrey Postlethwaite",
+        " Matthew Postlethwaite",
+        " Ian Peck",
+        " Tony Pitts",
+        " Aidan Gillen",
+        " Adrien Brody",
+        " Charlie Murphy",
+        " Aimee-Ffion Edwards",
+        " Anya Taylor-Joy",
+        " Sam Claflin"
+      ],
+      "episodes": [
+        {
+          "name": "1",
+          "slug": "1",
+          "filename": "Bóng ma Anh Quốc_S04E01_Thòng lọng",
+          "link_embed": "https://hd.1080phim.com/share/abb9d15b3293a96a3ea116867b2b16d5",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5981_65b456cd/index.m3u8"
+        },
+        {
+          "name": "2",
+          "slug": "2",
+          "filename": "Bóng ma Anh Quốc_S04E02_Lũ man rợ",
+          "link_embed": "https://hd.1080phim.com/share/c23497bd62a8f8a0981fdc9cbd3c30d9",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5982_e5248dff/index.m3u8"
+        },
+        {
+          "name": "3",
+          "slug": "3",
+          "filename": "Bóng ma Anh Quốc_S04E03_Con sáo đen",
+          "link_embed": "https://hd.1080phim.com/share/0cb82dbdcda47e2ad7b7aaf69573906e",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5983_11f08098/index.m3u8"
+        },
+        {
+          "name": "4",
+          "slug": "4",
+          "filename": "Bóng ma Anh Quốc_S04E04_Nguy hiểm",
+          "link_embed": "https://hd.1080phim.com/share/7f2cba89a7116c7c6b0a769572d5fad9",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5984_4ae45491/index.m3u8"
+        },
+        {
+          "name": "5",
+          "slug": "5",
+          "filename": "Bóng ma Anh Quốc_S04E05_Cuộc đấu tay đôi",
+          "link_embed": "https://hd.1080phim.com/share/fccc64972a9468a11f125cadb090e89e",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5985_7e84bfae/index.m3u8"
+        },
+        {
+          "name": "6",
+          "slug": "6",
+          "filename": "Bóng ma Anh Quốc_S04E06_Công ty",
+          "link_embed": "https://hd.1080phim.com/share/fd45c64e026040dbcb83395829d2aea5",
+          "link_m3u8": "https://hd.1080phim.com/20220420/5986_8c8ee4de/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FinalProject:war exploded2">
+    <output-path>$PROJECT_DIR$/classes/artifacts/FinalProject_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="FinalProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="bcrypt-0.10.2" />
+          <element id="library" level="project" name="bytes-1.5.0" />
+          <element id="library" level="project" name="spring-security-crypto-5.8.8" />
+          <element id="library" level="project" name="commons-lang3-3.12.0" />
+          <element id="library" level="project" name="javax.mail-1.6.1" />
+          <element id="library" level="project" name="activation-1.1" />
+          <element id="library" level="project" name="commons-fileupload-1.3" />
+          <element id="library" level="project" name="poi-1.8.0-dev-20020919" />
+          <element id="library" level="project" name="poi-3.7" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="FinalProject/web/Web" />
+    </root>
+  </artifact>
+</component>
